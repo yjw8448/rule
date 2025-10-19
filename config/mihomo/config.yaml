@@ -4,7 +4,7 @@
 # 机场订阅
 proxy-providers:
   Airport1:
-    url: "机场订阅填到这里，两端引号不要去掉，不要填写到下方链接里去！！"
+    url: "https://dash.pqjc.site/api/v1/client/subscribe?token=ff220c4c11fc0799b9828bf2f4fe9945"
     type: http
     interval: 86400
     health-check:
